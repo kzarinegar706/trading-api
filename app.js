@@ -3,7 +3,6 @@ var http = require('http');
 var request = require('request');
 var express = require('express');
 
-var hhh = conole.log(j);
 
 var app = express();
 const redirect_uri = 'http://localhost';
