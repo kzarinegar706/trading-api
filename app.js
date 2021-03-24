@@ -5,7 +5,7 @@ var express = require('express');
 
 
 var app = express();
-const redirect_uri = 'http://localhost';
+const redirect_uri = 'https://<tradingAPI>.herokuapp.com/auth';
 
 /* 
 Callback endpoint the TDA app uses.
